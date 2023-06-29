@@ -100,4 +100,4 @@ Test the API using Postman or Swagger
 
 ## Authors
 
-- [@Felipedarosaa](https://www.github.com/Felipedarosaa) 
+- [@Felipedarosaa](https://www.github.com/Felipedarosaa) | [@endriwmsi](https://www.github.com/endriwmsi)
